@@ -33,8 +33,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
-collections:
-  - monatsberichte-it-systemelektroniker
+header_pages:
+- technik/index.md
+- monatsberichte-it-systemelektroniker/index.md 
+- uber-mich/fsj-im-rettungsdienst.md
+- impressum.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

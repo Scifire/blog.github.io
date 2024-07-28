@@ -1,5 +1,5 @@
 ---
-#layout: page
+layout: page
 title: Bericht 1 – Datenschutz
 permalink: /monatsberichte-it-systemelektroniker/bericht-1-datenschutz
 ---
