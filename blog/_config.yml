@@ -22,9 +22,9 @@ title: Finity´s
 email: info@scifire.de
 description: >- # this means to ignore newlines until "baseurl:"
   Ein Blog…. oder sowas ähnliches
-domain: blog.scifire.de
+domain: scifire.github.op
 baseurl: /blog/ # the subpath of your site, e.g. /blog
-url: https://blog.scifire.de # the base hostname & protocol for your site, e.g. http://example.com
+url: https://scifire.github.io # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  scifire
 
@@ -32,6 +32,9 @@ github_username:  scifire
 theme: minima
 plugins:
   - jekyll-feed
+
+collections:
+  - monatsberichte-it-systemelektroniker
 
 # Exclude from processing.
 # The following items will not be processed, by default.
