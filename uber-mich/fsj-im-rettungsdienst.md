@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FSJ im Rettungsdienst (DRK) – Meine Erfahrung
+title: FSJ im Rettungsdienst – Meine Erfahrung
 permalink: /uber-mich/fsj-im-rettungsdienst
 ---
 
