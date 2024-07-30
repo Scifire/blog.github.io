@@ -4,7 +4,13 @@ title: FSJ im Rettungsdienst (DRK) – Meine Erfahrung
 permalink: /uber-mich/fsj-im-rettungsdienst
 ---
 
-
+1. [Die Ausbildung](#die-ausbildung)
+2. [Führerschein](#führerschein)
+3. [Einweisungen](#einweisungen)
+4. [Das Wachenleben](#das-wachenleben)
+5. [Die Einsätze](#die-einsätze)
+6. [Volunta](#volunta)
+7. [Die Kosten](#die-kosten)
 
 
 Wie ihr vielleicht schon erfahren habt, habe ich in 2012 ein Freiwilliges Soziales Jahr beim Deutschen Roten Kreuz als Rettungshelfer (RH) absolviert. Ich möchte hiermit denjenigen die auch am überlegen sind ein FSJ zu machen hiermit gerne eine Entscheidungshilfe geben.
