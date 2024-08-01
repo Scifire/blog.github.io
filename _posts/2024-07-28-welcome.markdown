@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Umzug zu Github Pages"
+date:   2024-07-28 15:49:00 +0200
+categories: jekyll update
+---
+In den letzten ca. 10 Jahren habe ich Hobby mäßig meinen eigenen Web-Server inklusive Wordpress, Teamspeak, Mail Server und diversen weiteren Web Diensten betrieben.   
+Während in anfangszeit das betreiben die Wordpress installation sowie ein bisschen bloggen durchaus lehreich und interessant waren, ist es in letzter Zeit jedoch nichts mehr wofür ich mir Zeit nehmen möchte.
+
+Daher habe ich mich dazu entschieden, auch um meinen kleinen vServer zu entlasten, die Wordpress Installation aufzugeben und die Inhalte die mir noch relevant erscheinen auf Github pages, basierend auf Jekyll, umzuziehen.
+
+Die anderen Dienste werde ich weiterhin auf meinem Server betreiben, wobei der focus nun mehr auf Automatisierung und Stabilität liegt. 
