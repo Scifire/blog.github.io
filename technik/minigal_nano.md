@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Technik"
+title: "MiniGal Nano"
 permalink: technik/minigal-nano
 ---
 
