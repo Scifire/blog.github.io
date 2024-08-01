@@ -24,8 +24,8 @@ This is also not a nice workaround but needs to done done only a single time and
 
  
 
-Sources:
-https://answers.microsoft.com/en-us/msoffice/forum/msoffice_sfb-mso_mac-mso_o365b/skype-for-businesslync-services-dont-appear-to/c204b511-8b0b-4338-924e-729603627413
-https://www.skypefeedback.com/forums/299913-generally-available/suggestions/33748453-fix-the-badly-broken-ipv6-stack
+Sources:     
+<https://answers.microsoft.com/en-us/msoffice/forum/msoffice_sfb-mso_mac-mso_o365b/skype-for-businesslync-services-dont-appear-to/c204b511-8b0b-4338-924e-729603627413/>    
+<https://www.skypefeedback.com/forums/299913-generally-available/suggestions/33748453-fix-the-badly-broken-ipv6-stack/>
 
-https://krausens-online.de/windows-10-setzen-der-mtu-aller-netzwerkkarten-ausser-loopback/
+<https://krausens-online.de/windows-10-setzen-der-mtu-aller-netzwerkkarten-ausser-loopback/>

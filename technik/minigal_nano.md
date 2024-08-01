@@ -16,7 +16,7 @@ Die Installation ist sehr einfach:
 2. Die entpackten Dateien in den Webseiten Ordner verschieben/uploaden
 3. Config anpassen indem man die Datei config.php bearbeitet
 4. Fotos in den ordner /photos uplaoden
-5.Fertig!
+5. Fertig!
 
 Da das Originalprojekt schon längere Zeit ruht und nicht weiter entwickelt wurde empfehle ich die version von Zulutime oder Sébastien SAUVAGE zu verwenden.
 

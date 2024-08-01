@@ -44,7 +44,6 @@ Aussage der Telekom Techniker.
 Erfahrungen mit der DE Cloud sowie die Migration in die EU Cloud sind hier verlinkt:
 
 [Telekom](telekom.md)   
-[Exchange Online DE](exo-de.md)     
-[Office 365/Exchange Online DE](office365-exo-de.md)     
+[Exchange Online DE](exo-de.md)      
 [Office 365 DE](o365de.md)    
 [Migration Office 365 DE nach EU](o365de-mig-eu.md)     

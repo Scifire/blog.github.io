@@ -71,6 +71,6 @@ Now the postfix checks after a restart of the postfix it should now check every 
  
 
 Helpful links/manual:    
-http://www.postfix.org/access.5.html     
-http://www.postfix.org/PGSQL_README.html     
-http://www.postfix.org/pgsql_table.5.html     
+[http://www.postfix.org/access.5.html](http://www.postfix.org/access.5.html)     
+[http://www.postfix.org/PGSQL_README.html](http://www.postfix.org/PGSQL_README.html)     
+[http://www.postfix.org/pgsql_table.5.html](http://www.postfix.org/pgsql_table.5.html)     
