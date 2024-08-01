@@ -4,6 +4,7 @@ title: "postgres-backed postfix denylist"
 permalink: technik/allgemein/postgres-backed-postfix-blacklist
 date: 2018-06-28 09:48:00 +0200
 ---
+*Published on: 2018-06-28*
 
 While the mail infrastructure in the company I was working was growing and we´re sending more and more mails every day we decide to use Amazon SES to send out our mails.
 To hold the servers reputation good Amazon only allows a bounce rate of 5% to 10%, which means if we are exceeding this rate Amazon will block us.
@@ -15,14 +16,14 @@ To not publish the SES credentials on every server we decide to setup internal p
 With this postgres-backed postfix denylist we can fill the table direct from SNS notifications into the postgres. Then postfix checks the postgres if the recipient address is on our denylist.
 Simple postfix denylist
 
-For simple denylisting in postfix we add the following entry to the postfix main.cf:
-`smtpd_recipient_restrictions = check_recipient_access hash:/etc/postfix/access`
+For simple denylisting in postfix we add the following entry to the postfix main.cf:      
+`smtpd_recipient_restrictions = check_recipient_access hash:/etc/postfix/access`     
 
 With this line postfix will check every recipient address against the “access” file. If the address is there it will do what is written down after the address. All the things behind are posted as comment to the log.
 
-So syntax for the access file is:
-`test@example.com DISCARD SES bounced mailaddress`
-All actions and further configuration can be found on the [postfix manual](http://www.postfix.org/access.5.html).
+So syntax for the access file is:      
+`test@example.com DISCARD SES bounced mailaddress`     
+All actions and further configuration can be found on the [postfix manual](http://www.postfix.org/access.5.html).     
 But for this we have to maintain a single file. Also we need to create a hash with postmap from this access and every time we change it we have to reload postfix.
 So let´s switch to denylisting backed by postgres
 
@@ -70,7 +71,7 @@ Now the postfix checks after a restart of the postfix it should now check every 
 
  
 
-Helpful links/manual:
-http://www.postfix.org/access.5.html
-http://www.postfix.org/PGSQL_README.html
-http://www.postfix.org/pgsql_table.5.html
+Helpful links/manual:    
+http://www.postfix.org/access.5.html     
+http://www.postfix.org/PGSQL_README.html     
+http://www.postfix.org/pgsql_table.5.html     
