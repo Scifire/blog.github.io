@@ -3,7 +3,7 @@ layout: page
 title: "MiniGal Nano"
 permalink: technik/minigal-nano
 ---
-
+*Published on: 2013-07-15*
 
 # How to MiniGal Nano auf dem eigenen Webserver
 
