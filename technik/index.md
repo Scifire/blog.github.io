@@ -11,7 +11,6 @@ In diesem Bereich findet ihr Technischen Informationen rund um Linux, Server, Te
 [Skype for Business IPv6 problem](SfB-ipv6.md)    
 [Office 365 / Exchange Online DE](o365-exo-de.md)     
 [Telekom](telekom.md)    
-[Exchange Online DE](exo-de.md)     
-[Office 365/Exchange Online DE](office365-exo-de.md)     
+[Exchange Online DE](exo-de.md)        
 [Office 365 DE](o365de.md)    
 [Migration Office 365 DE nach EU](o365de-mig-eu.md)     
