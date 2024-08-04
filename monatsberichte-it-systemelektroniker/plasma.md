@@ -1,0 +1,19 @@
+---
+layout: page
+title: Bericht 31 – Plasma Displays
+permalink: /monatsberichte-it-systemelektroniker/bericht-31-plasma-displays/
+---
+
+Die Plasmatechnologie ist nichts wirklich neues. Bereits 1960 begannen Forschungen an dieser Technik. Da die Technik natürlich auch für die Industrie interessant war sprangen Firmen wie IBM, NEC und Fujitsu auf und entwickelten die Technik weiter. Leider wurde die Entwicklung 1986 in den USA fast völlig eingestellt weil keine industriellen Produktinosstätten für die Technologie vorhanden waren. Zuletzt war der Gigant IBM das Handtuch. Nur eine Handvoll Wissenschaftler in den USA setzten die Forschungen fort, der Großteil der Entwicklung verlagerte sich aber nach Japan.
+
+Die ersten kommerziellen Modelle kamen in den frühen 90er Jahren auf den Markt. Fujitsu war einer der ersten Hersteller der die 21 Zoll Barriere überwand. Mittlerweile gibt es Geräte mit einer Bilddiagonale von 63 Zoll.
+
+Das Funktionsprinzip von Plasmadisplays ist recht einfach. Jeder Pixel besteht aus drei Subpixeln. Jeder dieser Subpixel ist eine kleine Leuchtstoffröhre die eine der Grundfarben aussendet: Rot, Grün oder Blau. Durch variieren der Lichtintensität können sehr viele Farbschattierungen erzeugt werden. In diesen kleinen Röhren wird ein Edelgas eingeschlossen (Xenon) und an die Röhre eine hohe Spannung angelegt (mehrere hundert Volt). Das Gas selbst hat keine Ladung wird aber durch die Spannung angeregt und zu Plasma umgewandelt, ein Gas aus freien Elektronen und positiven Ionen. Durch die Bewegung in der Röhre kommt es zu Zusammenstößen zwischen den Atomen: Licht wird ausgesendet. Allerdings nur einmal da die Bewegung nur einmal in eine Richtung läuft. Daher wird Wechselspannung an die Röhre angelegt wodurch die Atome in Bewegung bleiben und dauerhaft Licht aussenden.
+
+Das Licht das diese kleinen Röhren aussenden ist allerdings UV-Licht, für Menschen also nicht sichtbar. Wie bei Leuchtstoffröhren wird ein UV-empfindliches Pulver an den Wänden der Röhre angebracht die in einer bestimmten Farbe leuchten. Dieses Pulver, Phosphor, ist ein Material das einen Lichtwellenbereich in einen anderen umwandeln kann. Dieses Material wird auch bei Röhrengeräten als Leuchtschicht verwendet.
+
+Obwohl die Funktionsweise einfach ist, die Herstellung ist es nicht. Eine Schwierigkeit liegt in der Größe der Pixel selbst. Jeder Pixel hat nur ein Volumen von 200 x 200 x 100 µm (0,2 x 0,2 x 0,1 mm). Mehrere Millionen davon nebeneinander auf einem Panel anzuordnen ist kein leichtes Unterfangen. Als nächstes sind die Elektroden, also die elektrischen Kontakte der Röhre, auf der Vorder- und Rückseite jedes Subpixel angeordnet und nicht auf den Seiten (aus Platzgründen), daher muss die vordere Elektrode möglichst transparent sein. Hier verwendet man Indiumzinnoxid das sowohl Leitfähig als auch transparent ist. Leider nicht leitfähig genug, selbst für eine solch kurze Stromleitung ist der elektrische Widerstand zu hoch. Deshalb fügt man Chrom hinzu was zwar sehr gut leitet aber leider kaum Lichtdurchlässig ist.
+
+Letztlich ist die Ansteuerung der Subpixel nicht ganz einfach da alle unabhängig voneinander angesteuert werden müssen. Man kann natürlich unmöglich Millionen von Leitungen auf so geringem Raum unterbringen, also werden die Leitungen multiplexiert. Das heißt alle Subpixel in einer Reihe und in einer Spalte werden zusammengefasst und nacheinander von der Steuerelektronik des Monitors mit Spannung versorgt.
+
+Da die Pixel sehr groß sind eignen sich diese Displays nur bei Abständen von mindestens 3 Metern da sonst die einzelnen Subpixel wahrgenommen werden.
